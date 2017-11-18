@@ -2,7 +2,7 @@
 
 Video chapters are a nice way to identify a start/end of new contextual-segments in a long-video.<br/>
 
-In case you've used of a ripping program such as <a href="https://handbrake.fr/nightly.php"><img src="handbrake.png"/> HandBrake</a>,<br/>
+In case you've used of a ripping program such as <a href="https://handbrake.fr/nightly.php"><img src="resources/handbrake.png"/> HandBrake</a>,<br/>
 you'll end up with a one long video, containing all the videos on the DVD,<br/>
 if it is not desirable for you, you may use this <em>Chapter Splitter</em> to split the one long video into many short ones,<br/>
 accurately cut by the chapter's start and end points.
